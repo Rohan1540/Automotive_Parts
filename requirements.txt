@@ -1,0 +1,12 @@
+apache-airflow==2.9.2
+apache-airflow-providers-postgres==5.11.1
+apache-airflow-providers-http==4.11.1
+apache-airflow-providers-common-sql==1.14.0
+kafka-python==2.0.2
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+faker==25.0.0
+psycopg2-binary==2.9.9
+streamlit==1.36.0
+Flask==2.2.5
